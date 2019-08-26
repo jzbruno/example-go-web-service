@@ -10,7 +10,7 @@ service:
   type: ClusterIP
   port: 8080
 
-hostname:
+hostnames:
   - example.com
   - localhost
 
